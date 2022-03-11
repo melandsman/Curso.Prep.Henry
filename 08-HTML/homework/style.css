@@ -1,8 +1,17 @@
-<style> divClass> h1 {color: aqua;
+#divClass>h1{
+color: rgb(72, 255, 0);
+}
+#thirdDiv>ul>li>img{
+    width: 400px;
+}
+#thirdDiv{
+height: 600px; 
+width: 500px; 
+background-color: rgb(103, 103, 238);
+padding: 50px;
+border-color: black;
+border-width: 6px;
+}  
+#spanId{
+font-size: 18px;margin: 50px;
 } 
-thirdDiv>ul>li>img {width: 400px;
-} 
-thirdDiv {height: 600px;
-width: 500px; background-color: coral; padding: 50px; border-color: black; border-width: 6px;}
-spanId {font-size: 18px; margin: 50px;}
-</style>  
